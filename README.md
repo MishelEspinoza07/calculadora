@@ -17,7 +17,8 @@ Asegúrate de tener instalados los siguientes requisitos antes de comenzar:
 Clona este repositorio en tu computadora local:
 ```sh
 git clone https://github.com/MishelEspinoza07/calculadora.git
-cd calcu
+cd calculadora
+
 ```
 
 ### 2. Instalar Expo CLI
